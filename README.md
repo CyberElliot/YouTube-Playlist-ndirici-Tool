@@ -1,3 +1,5 @@
+YAKINDA GELECEK
+
 # 📥 YouTube Playlist Downloader
 
 YouTube üzerindeki **playlist’leri tek parça MP4 (video + ses)** formatında indirmek için geliştirilmiş, Python tabanlı bir **CLI (Command Line Interface)** uygulamasıdır.
